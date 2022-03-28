@@ -4,7 +4,6 @@ import InfoCards from '../../components/infocards/InfoCards';
 import MembersTable from '../../components/memberstable/MembersTable';
 import AlertBox from '../../components/alertbox/AlertBox';
 import MemberForm from '../../components/memberform/MemberForm';
-import DeleteModal from '../../components/deletemodal/DeleteModal';
 
 
 const Dashboard = () => {
